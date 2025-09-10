@@ -1,0 +1,10 @@
+Patient_6007 6 0
+Patient_7913 1 4
+Patient_7327 10 9
+Patient_7149 6 13
+Patient_5757 2 23
+Patient_4890 5 33
+Patient_1757 10 38
+Patient_7831 2 43
+Patient_8718 2 53
+Patient_8692 8 57
